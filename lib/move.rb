@@ -16,4 +16,4 @@ def move(board, input_to_index, character)
   return board
 end
 
-move (board, input_to_index, charater = "X")
+move (board, input_to_index, character = "X")
