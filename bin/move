@@ -9,5 +9,4 @@ puts "Where would you like to go?"
 input = gets.strip
 
 
-move(board, index, "X")
 display_board(board)
